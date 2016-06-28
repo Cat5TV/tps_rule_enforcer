@@ -77,13 +77,11 @@ local kick = {
   "wank",
   "whore",
   "wtf",
-  "hell",
   "dingus",
   "idiot",
   "buttpirate",
   "honkey",
   "kike"
-  
 }
 
 -- These offenses will receive a warning.
