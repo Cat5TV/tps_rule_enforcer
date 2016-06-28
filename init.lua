@@ -76,7 +76,14 @@ local kick = {
   "vagina",
   "wank",
   "whore",
-  "wtf"
+  "wtf",
+  "hell",
+  "dingus",
+  "idiot",
+  "buttpirate",
+  "honkey",
+  "kike"
+  
 }
 
 -- These offenses will receive a warning.
