@@ -23,7 +23,6 @@ local kick = {
   "clitoris",
   "cock",
   "coon",
-  "crap",
   "cunt",
   "damn",
   "dick",
