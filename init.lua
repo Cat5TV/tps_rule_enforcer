@@ -74,7 +74,7 @@ local kick = {
   "idiot",
   "buttpirate",
   "honkey",
-  "kike"
+  "kike",
   "b*tch",
 }
 
