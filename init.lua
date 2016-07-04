@@ -1,9 +1,7 @@
 -- These offenses will result in a kick.
 local kick = {
-	"anal",
   "anus",
   "arse",
-  "ass",
   "ballsack",
   "balls",
   "bastard",
@@ -17,7 +15,6 @@ local kick = {
   "boner",
   "boob",
   "bugger",
-  "butt",
   "buttplug",
   "clitoris",
   "cock",
@@ -39,7 +36,6 @@ local kick = {
   "flange",
   "Goddamn",
   "God damn",
-  "hell",
   "homo",
   "jerk",
   "jizz",
@@ -48,7 +44,6 @@ local kick = {
   "labia",
   "lmao",
   "lmfao",
-  "muff",
   "nigger",
   "nigga",
   "omg",
