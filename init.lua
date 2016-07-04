@@ -17,7 +17,6 @@ local kick = {
   "boner",
   "boob",
   "bugger",
-  "bum",
   "butt",
   "buttplug",
   "clitoris",
@@ -81,6 +80,7 @@ local kick = {
   "buttpirate",
   "honkey",
   "kike"
+  "b*tch",
 }
 
 -- These offenses will receive a warning.
