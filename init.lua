@@ -33,6 +33,7 @@ local kick = {
   "f u c k",
   "fudgepacker",
   "fudge packer",
+  "funk you",
   "flange",
   "Goddamn",
   "God damn",
