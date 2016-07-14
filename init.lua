@@ -77,6 +77,7 @@ local kick = {
   "honkey",
   "kike",
   "b*tch",
+  "rape",
 }
 
 -- These offenses will receive a warning.
