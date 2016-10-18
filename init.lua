@@ -1,3 +1,22 @@
+minetest.register_privilege("tps_rules", "Perform commands related to tps_rule_enforcer.")
+
+minetest.register_chatcommand("tps_warn", {
+	description = "Warn a player that they are breaching or coming close to breaching the rules.",
+	privs = {tps_rules=true},
+	func = tps_warn
+})
+
+local function tps_warn(player)
+	local pname = minetest.get_player_by_name(player)
+	local target_coords=pname:getpos()
+	minetest.sound_play("alert", {
+		to_player = player:get_player_name(),
+		gain = 1.0,
+	})
+	minetest.chat_send_player(player, pname .. " *** THIS IS A WARNING *** Follow the rules of this server or a moderator will retaliate in kind.")
+end
+
+
 -- These offenses will result in a kick.
 local kick = {
   "anus",
