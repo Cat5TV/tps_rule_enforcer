@@ -1,5 +1,5 @@
 # tps_rule_enforcer
-Minetest Mod: Enforce a selection of rules on the TPS servers
+Minetest Mod: Enforce a selection of rules on the Minetest game servers. Created for The Pixel Shadow's servers, but you're welcome to use it for your own. Please submit your Pull Requests if you add anything amazing  :)
 
 ## To Do List
 - Integrate the following syntax for moderator use: ```/warn <name> <message>```
