@@ -76,6 +76,7 @@ local kick = {
   "queer",
   "scrotum",
   "sex",
+  "s.e.x.",
   "shit",
   "s hit",
   "sh1t",
@@ -106,6 +107,7 @@ local warn = {
 		"u a guy",
 		"be my girlfriend",
 		"be my boyfriend",
+		"ur phone num",
 }
 minetest.register_on_chat_message(function(name, message)
 	if not message then return end
