@@ -95,7 +95,6 @@ local kick = {
   "buttpirate",
   "honkey",
   "kike",
-  "b*tch",
 }
 
 -- These offenses will receive a warning.
