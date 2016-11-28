@@ -83,7 +83,7 @@ local kick = {
   "slut",
   "smegma",
   "spunk",
-  "tit",
+  "tits",
   "tosser",
   "turd",
   "twat",
